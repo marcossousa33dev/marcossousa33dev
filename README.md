@@ -1,7 +1,9 @@
 ## Olá pessoal, Marcos Costa por aqui!!! 👋
+<img loading="lazy" src="https://github.com/user-attachments/assets/2586930a-0e58-40ef-a984-94e43a1bd51e" width="200" height="200"/>
 
 - 🔭 Eu atualmente trabalho em alguns lugares rsrs, Etec de Embu, Fatec de São Roque, Fatec de Osasco, Senac SP e FMU ... ufa!!!
 - 🌱 Nossa vida é uma loucura, mas atualmente estudo de tudo um pouco, música, conteúdo para minhas aulas, faço pós graduação em Data Science, que está no final, e estou me aventurando no Mestrado em Tecnologia Educacional!!!
+- 📱Algumas tecnologias que conheço, são tantos anos, conforme for lembrando vou acrescentado ...
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
@@ -44,8 +46,9 @@
 <a href="https://github.com/marcossousa33dev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousa33dev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossousa33dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 ![Snake animation](https://github.com/marcossousa33dev/marcossousa33dev/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **marcossousa33dev/marcossousa33dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
