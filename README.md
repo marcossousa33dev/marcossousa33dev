@@ -46,7 +46,8 @@
 <a href="https://github.com/marcossousa33dev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousa33dev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossousa33dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **marcossousa33dev/marcossousa33dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
